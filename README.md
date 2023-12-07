@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello everyone<br>My name is Saransh Sinha<br>I'm doing my B. Tech in CSE with CSDF<br> Mail Me: sharansh.sinha@gmail.com
+Hello Everyone<br>My name is Saransh Sinha<br>I'm doing my B. Tech in CSE with CSDF<br> Mail Me: sharansh.sinha@gmail.com
 
 
 ## 🌐 Socials:
