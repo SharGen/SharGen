@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student an VIT'25<br>I'm doing my B. Tech in Computer Science<br>My specialization is in cybersecurity and data forensics<br> Mail Me: sharansh.sinha@gmail.com
+Hello everyone<br>My name is Saransh Sinha<br>I'm doing my B. Tech in CSE with CSDF<br> Mail Me: sharansh.sinha@gmail.com
 
 
 ## 🌐 Socials:
